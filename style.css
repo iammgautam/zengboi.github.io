@@ -141,6 +141,7 @@ h1 {
     font-size: 5rem;
 }
 .main h1 {
+    color: var(--text-color);
     display: flex;
 	flex-direction: column;
 	flex-basis: 50%;
